@@ -3,20 +3,12 @@ package com.example.fruitslegumes;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity {
-
-    private Button button;
+public class FruitActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        button = findViewById(R.id.button_fruit);
-
-        
-
+        setContentView(R.layout.activity_fruit);
     }
 }
