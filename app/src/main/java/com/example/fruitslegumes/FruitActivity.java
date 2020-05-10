@@ -24,7 +24,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class FruitActivity extends AppCompatActivity {
 
-    private final String BASE_URL = "";
+    private final String BASE_URL = "https://raw.githubusercontent.com/Mehdi5347/FruitsEtLegumes/master/app/src/main/java/com/example/fruitslegumes/";
 
 
     private RecyclerView recyclerView;
