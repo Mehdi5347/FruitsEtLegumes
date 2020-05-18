@@ -12,7 +12,7 @@ Dans cette application on pourras retrouvé une liste de légumes courrants dans
 * Ecran avec le détail d’un élément
 * Appel WebService à une API Rest
 * Stockage de données en cache 
-* Architecture MVVM
+* Architecture MVC
 * Design
 * Changement de la police de l’application 
 * Affichage du détail d’un item de la liste
